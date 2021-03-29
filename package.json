@@ -1,0 +1,11 @@
+{
+  "name": "actividad04_20000742",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "electron ./src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
